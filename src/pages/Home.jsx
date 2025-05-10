@@ -9,7 +9,7 @@ const Home = () => {
       <div className="md:col-span-3 space-y-6">
         <section className="text-center mb-8">
           <h1 className="text-4xl font-bold">Explore the World</h1>
-          <p className="text-gray-600 mt-2">Inspiration and advice from real adventures.</p>
+          <p className="text-gray-600 mt-2">Inspiration and advice from real adventure.</p>
         </section>
 
         {/* Lista viaggi */}
