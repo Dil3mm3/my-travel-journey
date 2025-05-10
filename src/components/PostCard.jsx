@@ -5,7 +5,7 @@ const PostCard = ({ title, description, image }) => {
     <div className="bg-white rounded-xl overflow-hidden shadow-md hover:shadow-lg transition-shadow duration-300">
       <img
         src={image}
-        alt={title}
+        alt={title} 
         className="w-full h-48 object-cover"
       />
       <div className="p-4">
